@@ -11,6 +11,6 @@ Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi 
 Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-![image](https://user-images.githubusercontent.com/77547137/221795082-7a14fdcd-7314-4c8e-9b34-d493a1eccd73.png)
+![image](https://user-images.githubusercontent.com/77547137/221795910-d6d1025f-659b-4c56-bbf6-74daa8633bbd.png)
 
 www.patika.dev
